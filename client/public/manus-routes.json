@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"NORTHLINE INSIGHTS 首页"},{"path":"/articles/:slug","title":"文章详情"},{"path":"/topics","title":"内容主题"},{"path":"/archive","title":"内容归档"}]}
